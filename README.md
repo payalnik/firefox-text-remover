@@ -1,4 +1,6 @@
-# How to Load this Extension in Firefox
+This is a Firefox extension that removes text blocks that contain words from a list. Stop seeing news about a topic that you want nothing to do with!
+
+## How to Load this Extension in Firefox
 
 1. Zip or keep the folder as is. Make sure it has the manifest.json at the top level.
 2. In Firefox, go to `about:debugging#/runtime/this-firefox`.
